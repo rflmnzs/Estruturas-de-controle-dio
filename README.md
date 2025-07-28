@@ -28,5 +28,5 @@ Este projeto foi criado para estudo e prática pessoal de programação em Java.
 Sinta-se à vontade para contribuir, sugerir melhorias ou utilizar como base para seus próprios estudos.
 
 ## ✨ Autor
-👤 Desenvolvido por ###Rafael Pastor Menezes
+👤 Desenvolvido por Rafael Pastor Menezes
 💡 Sempre aprendendo e evoluindo na programação!
